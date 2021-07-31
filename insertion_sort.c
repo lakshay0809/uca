@@ -1,5 +1,5 @@
 /*
- * Program to observe execution time of selection sort algorithm for different type of inputs.
+ * Program to observe execution time of insertion sort algorithm for different type of inputs.
  *
  * @lakshay khanna  Roll_no -> 1910991116
  *Compilation: gcc insertion_sort.c
