@@ -23,7 +23,7 @@ int find_gcd(int a, int b)
 
 int main()
 {
-    int a, bs;
+    int a, b;
 // input from the user as a and b
     printf("Enter two numbers\n");
     scanf("%d %d", &a, &b);
