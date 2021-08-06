@@ -8,7 +8,7 @@
  *05/ 08/ 2021
  
  *Compilation: selection_sort.c
- * Exicution: ./a.out
+ * Execution: ./a.out
  */
 #include <stdio.h>
 
