@@ -19,7 +19,6 @@ int fibo(int n)
        if(n == 0 || n == 1)
         return n;
     
-    //it will call the function with n-1 and n-2 as because 
         return (fibo(n-1) + fibo(n-2));
 }
 
@@ -29,7 +28,7 @@ int main()
     int num;
     scanf("%d", &num);
     
-    //initializing the position as from 1 if equal to num it
+    //initializing the position as from 1
         int position = 1;
     //count will maintain the 3rd occurrence.
         int start = 1, count = 0;
