@@ -1,7 +1,7 @@
 /*
  * count inversion
  * @lakshay khanna  ID -> 1910991116
- *Compilation: gcc inversiom.c
+ *Compilation: gcc inversion.c
  * Execution: ./a.out
  */ 
 
