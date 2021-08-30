@@ -1,5 +1,4 @@
 /* Program to check whether the give linked list is palindrome or not.
- *
  *Assignment No -> (06) 
  *Assignment Name -> Linked_List
  */

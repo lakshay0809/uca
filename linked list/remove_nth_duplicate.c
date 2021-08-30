@@ -1,7 +1,5 @@
 /* Program to remove nth node from last of a linked list.
- *
  *Assignment No -> (06) 
-
  */
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
     int size = 0;

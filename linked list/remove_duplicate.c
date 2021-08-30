@@ -1,5 +1,4 @@
 /* Program to remove duplicates from the list.
- *
  *Assignment No -> (06) 
  *Assignment Name -> Linked_List
 */
