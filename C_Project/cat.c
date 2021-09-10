@@ -15,7 +15,6 @@ int main(int argc, char* argv[])
     char *a1 = (char*) malloc (sizeof(char));
     int sz, fd,cont=0, cont1=0;
     char *b1 = (char*) malloc (sizeof(char));
-    //char *a2 = (char*) malloc (sizeof(char));
     char * a2;
     char *b2 = (char*) malloc (sizeof(char));
 
